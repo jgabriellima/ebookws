@@ -8,7 +8,7 @@ MarkupSafe==0.18
 NoSQLMap==0.5
 PAM==0.4.2
 Paste==2.0.2
-Pillow==2.3.0
+Pillow==8.2.0
 Theano==0.7.0
 Twisted-Core==13.2.0
 Twisted-Names==13.2.0
