@@ -3,7 +3,7 @@ CherryPy==3.8.0
 CouchDB==1.0
 Flask==0.10.1
 Jinja2==2.8
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 NoSQLMap==0.5
 PAM==0.4.2
